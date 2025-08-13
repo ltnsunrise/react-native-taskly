@@ -1,7 +1,7 @@
 import { TouchableOpacity, View, Alert, StyleSheet, Text } from 'react-native';
-import { theme } from '../theme';
 import AntDesign from '@expo/vector-icons/AntDesign';
 import Entypo from '@expo/vector-icons/Entypo';
+import { theme } from '../theme';
 
 type Props = {
   name: string;
